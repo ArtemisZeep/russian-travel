@@ -228,7 +228,7 @@
   align-self: flex-end;
 }
 
-.website__url-heading {
+.website__url_heading {
   
   margin: 0;
   margin-bottom: 12px;
@@ -261,7 +261,7 @@
 
 }
 
-.place_paragraph {
+.place__paragraph {
   margin: 0;
   width: 484px;
   font-weight: 400;
@@ -270,7 +270,7 @@
   text-align: left;
 }
 
-.place_paragraph-second {
+.place__paragraph_number_two {
   margin: 0;
   margin-top: 26px;
   
@@ -447,14 +447,14 @@
   
   }
   
-  .place_paragraph {
+  .place__paragraph {
     margin: 0;
     width: 456px;
 
 
   }
 
-  .place_paragraph-second {
+  .place__paragraph_number_two {
     margin: 0;
     margin-top: 26px;
     
@@ -578,7 +578,7 @@
   
   }
   
-  .place_paragraph {
+  .place__paragraph {
     margin: 0;
     width: 352px;
     font-weight: 400;
@@ -587,7 +587,7 @@
 
   }
 
-  .place_paragraph-second {
+  .place__paragraph_number_two {
     margin: 0;
     margin-top: 25px;
     
@@ -766,7 +766,7 @@
     margin-top: 32px;
   }
   
-  .website__url-heading {
+  .website__url_heading {
     width: 288px;
 
     margin: 0;
@@ -788,7 +788,7 @@
     margin: 0 auto;
   }
   
-  .place_paragraph {
+  .place__paragraph {
     width: 288px;
     font-weight: 400;
     font-size: 16px;
@@ -798,7 +798,7 @@
 
   }
 
-  .place_paragraph-second {
+  .place__paragraph_number_two {
     margin: 0 auto;
     margin-top: 25px;
     
