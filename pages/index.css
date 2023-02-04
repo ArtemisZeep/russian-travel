@@ -228,7 +228,7 @@
   align-self: flex-end;
 }
 
-.website__url_heading {
+.website__url_place_heading {
   
   margin: 0;
   margin-bottom: 12px;
@@ -766,7 +766,7 @@
     margin-top: 32px;
   }
   
-  .website__url_heading {
+  .website__url_place_heading {
     width: 288px;
 
     margin: 0;
