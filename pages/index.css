@@ -538,7 +538,7 @@
 
     width: 720px;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: repeat(6; 1fr);
+    grid-template-rows: repeat(6, 1fr);
     gap: 14px;
     margin-top: 88px;
   }
@@ -717,7 +717,7 @@
   .photo-grid {
     width: 288px;
     grid-template-columns: 1fr;
-    grid-template-rows: repeat(12; 1fr);
+    grid-template-rows: repeat(12, 1fr);
     gap: 12px;
     margin-top: 64px;
   }
