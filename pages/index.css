@@ -204,7 +204,7 @@
   position: relative;
   display: inline-grid;
   width: 984px;
-  grid-template-columns: 1fr 484px ;
+  grid-template-columns: 1fr 484px;
   grid-template-rows: 1fr 460px;
   margin: 0;
   margin-top: 80px;
@@ -344,7 +344,7 @@
   flex-direction: row;
   justify-content: space-between;
   width: 1184px;
-  margin: 0 auto ;
+  margin: 0 auto;
   margin-top: 92px;
   margin-bottom: 24px;
 
@@ -424,7 +424,7 @@
   
   .place {
     width: 928px;
-    grid-template-columns: 1fr 456px ;
+    grid-template-columns: 1fr 456px;
     grid-template-rows: 1fr 440px;
     gap: 48px 32px;
   }
@@ -537,7 +537,7 @@
   .photo-grid {
 
     width: 720px;
-    grid-template-columns: 1fr 1fr ;
+    grid-template-columns: 1fr 1fr;
     grid-template-rows: repeat(6; 1fr);
     gap: 14px;
     margin-top: 88px;
@@ -554,7 +554,7 @@
 
   .place {
     width: 720px;
-    grid-template-columns: 1fr auto ;
+    grid-template-columns: 1fr auto;
     grid-template-rows: 1fr auto;
     gap: 48px 28px;
     margin-top: 73px;
@@ -716,7 +716,7 @@
 
   .photo-grid {
     width: 288px;
-    grid-template-columns: 1fr ;
+    grid-template-columns: 1fr;
     grid-template-rows: repeat(12; 1fr);
     gap: 12px;
     margin-top: 64px;
@@ -734,7 +734,7 @@
 
   .place {
     width: 320px;
-    grid-template-columns: auto ;
+    grid-template-columns: auto;
     grid-template-rows: auto;
     gap:0;
     margin-top: 50px;
