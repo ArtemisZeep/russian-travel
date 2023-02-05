@@ -1,0 +1,25 @@
+.website__link {  
+  margin: 0;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration-line: underline;
+  text-align: left;
+}
+
+.website__link:hover {
+  color: #d5d6d6;
+  opacity: 0,8;
+}
+
+@media screen and (max-width: 767px) {
+
+  
+  .website__link {  
+    width: 288px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    margin: 0 auto;
+  }
+}

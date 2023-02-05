@@ -1,0 +1,26 @@
+.website__url-heading {
+  
+  margin: 0;
+  margin-bottom: 12px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 2px;
+  text-align: left;
+  color: #AAAAAA;
+}
+
+@media screen and (max-width: 767px) {
+
+  .website__url-heading {
+    width: 288px;
+    margin: 0 auto;
+    margin-bottom: 12px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 2px;
+    text-align: left;
+    color: #AAAAAA;
+  }
+}
