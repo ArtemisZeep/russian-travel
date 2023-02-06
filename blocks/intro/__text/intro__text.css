@@ -1,11 +1,12 @@
 .intro__text {
-  width: 690px;
+  max-width: 690px;
   margin: 0;
   font-weight: 400;
   font-size: 16px;
   line-height: 163%;
   text-align: left;
   margin-top: 40px;
+  color: white;
 }
 
 
@@ -14,7 +15,7 @@
 
 
   .intro__text {
-    width: 720px;
+    max-width: 720px;
   }
 }
 
@@ -22,9 +23,6 @@
 
 
   .intro__text {
-    width: 288px;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 163%;
+    max-width: 288px;
   }
 }

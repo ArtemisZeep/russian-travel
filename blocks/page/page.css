@@ -1,36 +1,19 @@
 
-@font-face {
-  font-family: 'Inter';
-  font-style:  normal;
-  font-weight: 400;
-  src: url("../fonts/Inter-Regular.woff2") format("woff2"),
-       url("../fonts/Inter-Regular.woff") format("woff");
-}
-
-
-@font-face {
-  font-family: 'Inter';
-  font-style:  normal;
-  font-weight: 900;
-  src: url("../fonts/Inter-Black.woff2") format("woff2"),
-       url("../fonts/Inter-Black.woff") format("woff");
-}
-
-
 .page{
-  width: 1280px;
+  max-width: 1280px;
   background-color: #25282b;
   margin: 0 auto;
   font-family: 'Inter';
   font-style: normal;
   text-decoration: none;
+  font-family: 'Inter','Roboto', sans-serif;
 }
 
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
 
   .page{
-    width: 1024px;
+    max-width: 1024px;
   }
 }
 
@@ -38,7 +21,7 @@
 @media screen and (min-width: 768px) and (max-width: 1023px) {
 
   .page{
-    width: 768px;
+    max-width: 768px;
   }
 }
 
@@ -46,6 +29,6 @@
 @media screen and (max-width: 767px) {
 
   .page{
-    width: 320px;
+   max-width: 320px;
   }
 }
