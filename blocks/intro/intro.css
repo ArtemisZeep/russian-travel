@@ -13,7 +13,7 @@
 
   
   .intro {
-    width: 928px;
+    max-width: 928px;
   }
 }
 
@@ -22,7 +22,7 @@
 
   
   .intro {
-    width: 720px;
+    max-width: 720px;
     margin-top: 88px;
   }
 }
@@ -34,7 +34,7 @@
 
   
   .intro {
-    width: 288px;
+    max-width: 288px;
     margin-top: 64px;
   }
 }

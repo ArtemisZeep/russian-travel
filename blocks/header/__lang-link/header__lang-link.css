@@ -4,6 +4,7 @@
   line-height: 28px;
   text-align: right;
   text-decoration: none;
+  cursor: pointer;
 
 
 }
@@ -11,6 +12,7 @@
 .header__lang-link:hover {
   opacity: 0.8;
 }
+
 
 
 

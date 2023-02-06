@@ -2,7 +2,7 @@
   position: relative;
   display: flex;
   width: 1184px;
-  height: 740px;
+  min-height: 740px;
   margin: 0 auto;
   margin-top: 92px;
   flex-direction: column;
@@ -30,7 +30,7 @@
 
   .cover{
     width: 1024px;
-    height: 640px;
+    min-height: 640px;
   }
 }
 
@@ -40,7 +40,7 @@
 
   .cover{
     width: 768px;
-    height: 480px;
+    min-height: 480px;
   }
 }
 
@@ -49,6 +49,6 @@
 
   .cover{
     width: 320px;
-    height: 200px;
+    min-height: 200px;
   }
 }

@@ -18,6 +18,6 @@
   
   .place__link {  
     max-width: 288px;
-    margin: 0 auto;
+    margin-left: 16px;
   }
 }

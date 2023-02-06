@@ -26,7 +26,6 @@
 
   
   .place__paragraph {
-    margin: 0;
     max-width: 352px;
     font-size: 16px;
 
@@ -39,8 +38,14 @@
   .place__paragraph {
     max-width: 288px;
     font-size: 16px;
-     margin: 0 auto;
     margin-top: 32px;
+    margin-bottom: 25px;
+    margin-left: auto;
+    margin-right: auto;
 
+  }
+  .place__paragraph:last-of-type {
+    margin-bottom: 0;
+    margin-top: 0;
   }
 }
