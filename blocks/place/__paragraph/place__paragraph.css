@@ -38,14 +38,13 @@
   .place__paragraph {
     max-width: 288px;
     font-size: 16px;
-    margin-top: 32px;
-    margin-bottom: 25px;
+    margin-top: 25px;
     margin-left: auto;
     margin-right: auto;
 
   }
-  .place__paragraph:last-of-type {
+  .place__paragraph:first-of-type {
+    margin-top: 32px;
     margin-bottom: 0;
-    margin-top: 0;
   }
 }
